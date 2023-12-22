@@ -47,7 +47,7 @@
 "Agree and continue" = "Zustimmen und fortfahren";
 
 /* Headline in enacted pop up (at: at what time) */
-"Enacted at" = "Letze Berechnung um";
+"Enacted at" = "Letzte Berechnung um";
 
 /* Headline in suggested pop up (at: at what time) */
 "Suggested at" = "Vorgeschlagen um";
@@ -137,7 +137,7 @@
 "Cancel Temp Target" = "Temporäres Ziel abbrechen";
 
 /* Custom temp target */
-"Custom" = "Benutzerdefiniertes";
+"Custom" = "Benutzerdefiniert";
 
 /*  */
 "Date" = "Datum";
@@ -334,6 +334,9 @@ Enact a temp Basal or a temp target */
 
 /**/
 "Use local glucose server" = "Lokalen BZ-Server verwenden";
+
+/* Enable Statistics */
+"This enables uploading of statistics.json to Nightscout, which can be used by the Community Statistics and Demographics Project.\n\nParticipation in Community Statistics is opt-in, and requires separate registration at:\n" = "This enables uploading of statistics.json to Nightscout, which can be used by the Community Statistics and Demographics Project.\n\nParticipation in Community Statistics is opt-in, and requires separate registration at:\n";
 
 /*  */
 "Edit settings json" = "Einstellungen bearbeiten json";
