@@ -179,6 +179,9 @@
 /* Button title to deactivate pod because of fault during setup */
 "Deactivate" = "Hủy kích hoạt";
 
+/* Action button description for deactivate while pod still active */
+"Slide to Deactivate Pod" = "Trượt để vô hiệu hóa Pod";
+
 /* Button title for pod deactivation
    Button title to deactivate pod */
 "Deactivate Pod" = "Hủy kích hoạt Pod";
@@ -264,7 +267,7 @@
 "Failed to update confidence reminder preference." = "Không cập nhật được tùy chọn lời nhắc về độ tin cậy.";
 
 /* Alert title for error when updating expiration reminder */
-"Failed to Update Expiration Reminder" = "Failed to Update Expiration Reminder";
+"Failed to Update Expiration Reminder" = "Không thể cập nhật lời nhắc hết hạn";
 
 /* Alert title for error when updating low reservoir reminder */
 "Failed to Update Low Reservoir Reminder" = "Thất bại cập nhật lời nhắc gần hết thuốc";
@@ -499,7 +502,7 @@
 "Pod Fault Details" = "Thông tin lỗi Pod";
 
 /* Error message for reservoir view when pod occlusion checks failed */
-"Pod Occlusion" = "Pod Occlusion";
+"Pod Occlusion" = "Pod bị tắc nghẽn";
 
 /* Pairing action button accessibility label when pairing succeeded */
 "Pod paired successfully. Continue." = "Pod ghép đôi thành công. Tiếp tục.";
